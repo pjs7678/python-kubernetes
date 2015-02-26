@@ -1,3 +1,5 @@
+.pypirc
+
 *.py[co]
 
 # Packages

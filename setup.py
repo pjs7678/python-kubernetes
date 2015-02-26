@@ -26,12 +26,12 @@ def read(*paths):
         return f.read()
 
 setup(
-    name='python-kubernetes',
+    name='python-kubernetes-wrapper',
     version='0.1',
     author='pjs7678',
-    author_email='pjs7678@cosmos.io',
+    author_email='pjs7678@gmail.com',
     license='Apache License 2.0',
-    url='https://github.com/cosmos-io/python-kubernetes',
+    url='https://github.com/pjs7678/python-kubernetes',
     keywords='kubernetes api',
     description='A Python wrapper around the Kubernetes API',
     long_description=(read('README.rst') + '\n\n' +

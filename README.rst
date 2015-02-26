@@ -4,7 +4,7 @@ Python Kubernetes
 
 A Python wrapper around the Kubernetes API.
 
-By the Python-Kubernetes Developers <pjs7678@cosmos.io>
+By the Python-Kubernetes Developers <pjs7678@gmail.com>
 
 
 ============
