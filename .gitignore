@@ -1,0 +1,13 @@
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+
+#Ctags
+.tags
+.tags_sorted_by_file
+
+.DS_Store
