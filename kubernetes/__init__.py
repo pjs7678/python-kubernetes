@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# Copyright 2014 Cosmos.io
+# Copyright 2014 tigmi
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
 
 '''A library that provides a Python interface to the Kubetnete API'''
 
-__author__ = 'pjs7678@cosmos.io'
+__author__ = 'pjs7678@pjs7678'
 __version__ = '0.1'
 
 import json as simplejson

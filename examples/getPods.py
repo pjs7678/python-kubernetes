@@ -2,7 +2,7 @@
 
 '''Get Pods from Kubernetes'''
 
-__author__ = 'pjs7678@cosmos.io'
+__author__ = 'pjs7678@pjs7678'
 
 import getopt
 import os

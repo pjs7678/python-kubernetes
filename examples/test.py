@@ -2,14 +2,14 @@
 
 '''Get Pods from Kubernetes'''
 
-__author__ = 'pjs7678@cosmos.io'
+__author__ = 'pjs7678@pjs7678'
 
 import requests
 import urllib3
 urllib3.disable_warnings()
 
 def main():
-	r = requests.get('https://107.178.217.20/api/v1beta1/pods', auth=('admin', 'hdrmCA3OXuL1lq12'), verify=False)
+	r = requests.get('https://10.245.1.2/api/v1beta2/pods', auth=('vagrant', 'vagrant'), verify=False)
 	print r.json()
 
 if __name__ == '__main__':
